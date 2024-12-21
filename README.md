@@ -1,2 +1,2 @@
 # crypto-trade-api-bot
-A simple bot for automating API requests for crypto exchanges or allocation platforms.
+A tool for planning, calculating and visualizing token allocations for investors, teams and pools.
